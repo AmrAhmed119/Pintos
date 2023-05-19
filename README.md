@@ -13,7 +13,7 @@ The project is divided into four phases:
 * P3: Virtual Memory
 * P4: File Systems
 
-## Source Code
+## Source code
 
 Source code is adopted from the open source project at [PintOS-OS](https://pintos-os.org/), we will try to keep this repository in sync with the official repository at [PintOS-OS Official Repository](https://pintos-os.org/cgi-bin/gitweb.cgi?p=pintos-anon;a=summary).
 
